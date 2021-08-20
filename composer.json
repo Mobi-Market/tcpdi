@@ -1,6 +1,5 @@
 {
-	"name": "andreaventuri/tcpdi",
-	"version": "1.0.6",
+	"name": "mobi-market/tcpdi",
 	"type": "library",
 	"description": "TCPDI is a PHP class for importing PDF to use with TCPDF",
 	"keywords": ["PDF", "tcpdi", "tcpdi_parser", "tcpdf"],
